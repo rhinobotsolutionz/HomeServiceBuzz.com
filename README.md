@@ -5,3 +5,7 @@
 <a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/4f55e64823fb8d1c940053dced0e62b048aa761f/post/noisy-washing-machine-7.md">Washing Machine Making Noise-7</a>
 
 [Washing Machine Making Noise-8](https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/4f55e64823fb8d1c940053dced0e62b048aa761f/post/noisy-washing-machine-7.md)
+
+https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/noisy-washing-machine-7.md
+
+[Washing Machine Making Noise-9](https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/noisy-washing-machine-7.md)
