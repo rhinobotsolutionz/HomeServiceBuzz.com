@@ -1,4 +1,4 @@
-<h1>Best Grills for Outdoor Kitchens </h1><p><img src="/images/"></p>Well, let me tell ya, when it comes to finding the best grills for your outdoor kitchen, you got options as plentiful as stars in the Texas sky. Now, if you’re lookin’ for even cookin’ that’ll have your steaks sizzlin’ just right, I’m a big fan of them gas grills. Ain’t my first rodeo with ‘em, and they’ll do ya right every time.
+<h1>Best Grills for Outdoor Kitchens</h1><p><img src="/images/"></p>Well, let me tell ya, when it comes to finding the best grills for your outdoor kitchen, you got options as plentiful as stars in the Texas sky. Now, if you’re lookin’ for even cookin’ that’ll have your steaks sizzlin’ just right, I’m a big fan of them gas grills. Ain’t my first rodeo with ‘em, and they’ll do ya right every time.
 
 But, if you’re like me, and you crave that good ol’ smoky flavor—nothing beats a charcoal grill. It’s like summer in a big ol’ pot, and trust me, your neighbors will be knockin’ on your door for a taste.
 
