@@ -3,8 +3,10 @@
 </a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/microwave-repair.md">Microwave Oven Troubleshooting</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/dryer-not-heating.md">Dryer Not Heating Up</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/small-bathroom-remodel.md">Small Bathroom Remodel Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-wood-decks.md">Best Wood For Decking</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/simple-home-repairs.md">Simple Diy Home Repairs</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/small-bathroom-remodel.md">Small Bathroom Remodel Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-grills.md">Best Grills For Outdoor Kitchens</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/common-problems.md">Common Garage Door Problems</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-projects.md">Outdoor Wood Project Ideas</a></p><br>
