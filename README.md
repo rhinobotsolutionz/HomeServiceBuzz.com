@@ -5,6 +5,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/microwave-repair.md">Microwave Oven Troubleshooting</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/dryer-not-heating.md">Dryer Not Heating Up</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/replace-window-glass.md">Replacing Broken Window Glass</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/modern-design.md">Modern Bathroom Design Trends</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-wood-decks.md">Best Wood For Decking</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/simple-home-repairs.md">Simple Diy Home Repairs</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/roof-checklist.md">Roof Inspection Checklist</a></p><br>
