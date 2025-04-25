@@ -18,6 +18,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/types-of-insulation.md">Types Of Home Insulation Explained</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-projects.md">Outdoor Wood Project Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/wood-fence-installation.md">Wood Fence Installation Guide</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/walk-in-showers.md">Walk-in Shower Design Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/refrigerator-troubleshooting.md">Refrigerator Troubleshooting & Maintenance</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-security-systems.md">Best Home Security Systems</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/oven-stove-repair.md">Oven &amp; Stove Repair Help</a></p><br>
