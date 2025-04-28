@@ -30,6 +30,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-projects.md">Outdoor Wood Project Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/wood-fence-installation.md">Wood Fence Installation Guide</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/walk-in-showers.md">Walk-in Shower Design Ideas</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/stone-patio-installation.md">Diy Stone Patio Installation</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/refrigerator-troubleshooting.md">Refrigerator Troubleshooting & Maintenance</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/bathtub-replacement.md">Bathtub Replacement Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/how-to-lay-brick.md">How To Lay Brick</a></p><br>
