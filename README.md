@@ -5,6 +5,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/changing-filters.md">Changing Hvac Filters</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/microwave-repair.md">Microwave Oven Troubleshooting</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/dryer-not-heating.md">Dryer Not Heating Up</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/bathroom-mirrors.md">Bathroom Mirror Styles</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/tile-ideas-for-bathrooms.md">Tile Ideas For Bathrooms</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/maintenance-checklist-3.md">Roof Maintenance Checklist</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-pressure-washers.md">Best Pressure Washers For Home Use</a></p><br>
