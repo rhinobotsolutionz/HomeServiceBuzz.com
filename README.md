@@ -1,4 +1,5 @@
-<h1>SITEMAP</h1><br> <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/dishwasher-repair.md">Dishwasher Maintenance &amp; Repair</a></p><br>
+<h1>SITEMAP</h1><br> <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/smart-bathroom.md">Smart Bathroom Technology</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/dishwasher-repair.md">Dishwasher Maintenance &amp; Repair</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/pruning-tips.md">Tree Pruning Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/your-microwave-not-turning-on.md">Why Your Microwave Not Turning On
 </a></p><br>
