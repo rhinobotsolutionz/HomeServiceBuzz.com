@@ -32,6 +32,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-crack-repair.md">Diy Foundation Crack Repair</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fire-pit-fireplace.md">Fire Pit And Fireplace Design Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/benefits-of-solar.md">Benefits Of Installing Solar Panels</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/wooden-furniture.md">Diy Wooden Furniture Plans</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-grills.md">Best Grills For Outdoor Kitchens</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/common-problems.md">Common Garage Door Problems</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-remodel.md">Diy Bathroom Remodel Tips</a></p><br>
