@@ -27,6 +27,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/attic-insulation.md">Attic Insulation Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-wood-decks.md">Best Wood For Decking</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/simple-home-repairs.md">Simple Diy Home Repairs</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/carpet-stain-removal.md">Carpet Stain Removal Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/roof-checklist.md">Roof Inspection Checklist</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fixing-leaks.md">Fixing Leaky Gutters</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-crack-repair.md">Diy Foundation Crack Repair</a></p><br>
