@@ -21,6 +21,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/window-cleaning-2.md">Window Cleaning Secrets</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/skimming-vacuuming.md">Pool Skimming And Vacuuming Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/master-bathroom.md">Master Bathroom Remodel Ideas</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/patio-repair.md">Concrete Patio Repair Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/essential-tools-3.md">Essential Metalworking Tools</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/replace-window-glass.md">Replacing Broken Window Glass</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/how-solar-panels-work.md">How Solar Panels Work</a></p><br>
