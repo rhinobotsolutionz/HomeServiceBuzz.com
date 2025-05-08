@@ -38,6 +38,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/chain-link-fence.md">Chain Link Fence Installation</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/carpet-stain-removal.md">Carpet Stain Removal Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/roof-checklist.md">Roof Inspection Checklist</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/foundation-repair-cost.md">Foundation Repair Costs</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fixing-leaks.md">Fixing Leaky Gutters</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-crack-repair.md">Diy Foundation Crack Repair</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fire-pit-fireplace.md">Fire Pit And Fireplace Design Ideas</a></p><br>
