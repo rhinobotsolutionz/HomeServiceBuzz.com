@@ -21,6 +21,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/garden-paths.md">Diy Garden Path Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/bathroom-mirrors.md">Bathroom Mirror Styles</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/garage-decluttering.md">Garage Decluttering Tips</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-kitchen-deck.md">Outdoor Kitchen Deck Integration</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/deck-patio-cleaning.md">Deck And Patio Pressure Washing</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/tile-ideas-for-bathrooms.md">Tile Ideas For Bathrooms</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/maintenance-checklist-3.md">Roof Maintenance Checklist</a></p><br>
