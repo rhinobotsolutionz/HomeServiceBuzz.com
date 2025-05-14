@@ -5,6 +5,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-camera-placement.md">Outdoor Security Camera Placement</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/improve-efficiency.md">How To Improve Hvac Efficiency</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/countertop-guide.md">Countertop Material Guide</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/block-wall-construction.md">Concrete Block Wall Construction</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fixing-springs.md">Fixing Garage Door Springs</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/pruning-tips.md">Tree Pruning Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/your-microwave-not-turning-on.md">Why Your Microwave Not Turning On
