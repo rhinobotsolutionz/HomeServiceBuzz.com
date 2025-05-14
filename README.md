@@ -27,6 +27,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/deck-patio-cleaning.md">Deck And Patio Pressure Washing</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/tile-ideas-for-bathrooms.md">Tile Ideas For Bathrooms</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/maintenance-checklist-3.md">Roof Maintenance Checklist</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/smart-controllers.md">Smart Irrigation Controllers</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/garbage-disposal-repair.md">Garbage Disposal Repair Guides</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/hard-water-removal.md">Hard Water Stain Removal</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-pressure-washers.md">Best Pressure Washers For Home Use</a></p><br>
