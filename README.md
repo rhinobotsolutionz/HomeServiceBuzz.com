@@ -13,6 +13,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/changing-filters.md">Changing Hvac Filters</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/multi-level-decks.md">Multi-level Deck Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/basement-prevention.md">Basement Water Damage Prevention</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/room-by-room-guides.md">Room-by-room Decluttering Guides</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/bathroom-cleaning.md">Bathroom Cleaning Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/plumbing-checklist.md">Plumbing Inspection Checklist</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/how-septic-systems-work.md">How Septic Systems Work</a></p><br>
