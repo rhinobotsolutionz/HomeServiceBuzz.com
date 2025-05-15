@@ -50,6 +50,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/master-bathroom.md">Master Bathroom Remodel Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/patio-repair.md">Concrete Patio Repair Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/essential-tools-3.md">Essential Metalworking Tools</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/frame-repair.md">Window Frame Repair Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/cleaning-schedule.md">Cleaning Schedule Templates</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/cleaning-products-guide.md">Cleaning Products Buying Guides</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/replace-window-glass.md">Replacing Broken Window Glass</a></p><br>
