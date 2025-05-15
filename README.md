@@ -92,6 +92,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/types-of-insulation.md">Types Of Home Insulation Explained</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/eco-friendly-remodel.md">Eco-friendly Bathroom Remodels</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-projects.md">Outdoor Wood Project Ideas</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/exterior-color-ideas.md">Best Exterior Paint Colors For Curb Appeal</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/wood-fence-installation.md">Wood Fence Installation Guide</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/electrical-panel-maintenance.md">Electrical Panel Maintenance</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/opener-troubleshooting.md">Garage Door Opener Troubleshooting</a></p><br>
