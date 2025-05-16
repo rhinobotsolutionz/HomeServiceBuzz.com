@@ -79,6 +79,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/decluttering-tips.md">Decluttering Before Cleaning</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/drywall-patching.md">How To Patch Drywall</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/covered-patio-ideas.md">Covered Patio Ideas</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/appliance-error-codes.md">Common Appliance Error Codes</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-grills.md">Best Grills For Outdoor Kitchens</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/common-problems.md">Common Garage Door Problems</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-remodel.md">Diy Bathroom Remodel Tips</a></p><br>
