@@ -108,6 +108,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/stone-patio-installation.md">Diy Stone Patio Installation</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/maintenance-checklist-4.md">Septic System Maintenance Checklist</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/refrigerator-troubleshooting.md">Refrigerator Troubleshooting & Maintenance</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/budget-friendly-projects.md">Budget-friendly Diy Projects</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/bathtub-replacement.md">Bathtub Replacement Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/signs-of-damage.md">Signs Of Gutter Damage</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/how-to-lay-brick.md">How To Lay Brick</a></p><br>
