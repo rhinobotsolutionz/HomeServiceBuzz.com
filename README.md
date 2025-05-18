@@ -70,6 +70,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/attic-insulation.md">Attic Insulation Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-wood-decks.md">Best Wood For Decking</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fire-pits.md">Fire Pits For Patios</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/patio-paver-designs.md">Patio Paver Designs</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/simple-home-repairs.md">Simple Diy Home Repairs</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/chain-link-fence.md">Chain Link Fence Installation</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/carpet-stain-removal.md">Carpet Stain Removal Tips</a></p><br>
