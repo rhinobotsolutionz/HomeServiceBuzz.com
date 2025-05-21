@@ -29,6 +29,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/framing-basics.md">Framing Basics For Diyers</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/appliance-warranty.md">Appliance Warranty Advice</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/bathroom-mirrors.md">Bathroom Mirror Styles</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/door-alignment.md">Garage Door Alignment Fixes</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/concrete-sealing.md">Sealing Concrete Surfaces</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/garage-decluttering.md">Garage Decluttering Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-kitchen-deck.md">Outdoor Kitchen Deck Integration</a></p><br>
