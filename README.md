@@ -1,6 +1,7 @@
 <h1>SITEMAP</h1><br> <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/smart-bathroom.md">Smart Bathroom Technology</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/raised-garden-beds.md">Raised Garden Bed Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/watering-tips.md">Tree Watering Tips</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/eco-friendly-flooring.md">Eco-friendly Flooring Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/preventing-electrical-fires.md">Preventing Electrical Fires</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/dishwasher-repair.md">Dishwasher Maintenance &amp; Repair</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-camera-placement.md">Outdoor Security Camera Placement</a></p><br>
