@@ -34,6 +34,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/concrete-sealing.md">Sealing Concrete Surfaces</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/garage-decluttering.md">Garage Decluttering Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-kitchen-deck.md">Outdoor Kitchen Deck Integration</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/motion-sensor-tips.md">Motion Sensor Security Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/deck-patio-cleaning.md">Deck And Patio Pressure Washing</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/basement-renovation.md">Basement Renovation Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/weatherstripping.md">Weatherstripping Your Garage Door</a></p><br>
