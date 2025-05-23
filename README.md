@@ -48,6 +48,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-pressure-washers.md">Best Pressure Washers For Home Use</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-vs-contractors.md">Diy Vs. Hiring Contractors</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/safety-tips-2.md">Woodworking Safety Tips</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/clean-gutters-safely.md">How To Clean Gutters Safely</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/decorative-fence-styles.md">Decorative Fence Styles</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/seasonal-checklist.md">Seasonal Hvac Maintenance Checklist</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/downspout-maintenance.md">Downspout Maintenance Tips</a></p><br>
