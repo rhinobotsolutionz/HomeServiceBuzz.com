@@ -66,6 +66,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/seamless-vs-sectional.md">Seamless Vs. Sectional Gutters</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/patio-repair.md">Concrete Patio Repair Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/essential-tools-3.md">Essential Metalworking Tools</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/home-alarm-systems.md">Home Alarm Systems Guide</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fixing-noisy-pipes.md">Fixing Noisy Pipes</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/frame-repair.md">Window Frame Repair Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/cleaning-schedule.md">Cleaning Schedule Templates</a></p><br>
