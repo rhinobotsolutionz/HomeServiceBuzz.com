@@ -38,6 +38,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/deck-patio-cleaning.md">Deck And Patio Pressure Washing</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/installing-rain-barrels.md">Installing Rain Barrels</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/basement-renovation.md">Basement Renovation Tips</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-installation-2.md">Diy Solar Panel Installation</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/weatherstripping.md">Weatherstripping Your Garage Door</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/minimalist-decluttering.md">Minimalist Decluttering Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/tile-ideas-for-bathrooms.md">Tile Ideas For Bathrooms</a></p><br>
