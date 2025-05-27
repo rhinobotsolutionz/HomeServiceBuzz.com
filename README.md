@@ -70,6 +70,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/metal-finishing.md">Metal Surface Finishing Techniques</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/budget-landscaping.md">Landscaping On A Budget</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/pet-mess-cleaning.md">Pet Mess Cleaning Hacks</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/moving-budget.md">Budgeting For A Move</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-sprinklers.md">Best Sprinkler Systems For Lawns</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/metal-fence-building.md">Diy Metal Fence Building</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/noisy-garage-door.md">Noisy Garage Door Solutions</a></p><br>
