@@ -67,6 +67,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/welding-safety.md">Welding Safety Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/downspout-maintenance.md">Downspout Maintenance Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/bathroom-flooring-2.md">Bathroom Flooring Options</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/metal-finishing.md">Metal Surface Finishing Techniques</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/budget-landscaping.md">Landscaping On A Budget</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/pet-mess-cleaning.md">Pet Mess Cleaning Hacks</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-sprinklers.md">Best Sprinkler Systems For Lawns</a></p><br>
