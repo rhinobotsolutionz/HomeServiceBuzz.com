@@ -123,6 +123,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-grills.md">Best Grills For Outdoor Kitchens</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/slab-repair.md">Slab Foundation Repair Guide</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/common-problems.md">Common Garage Door Problems</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/safe-grinding.md">How To Safely Grind Metal</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/batt-vs-blown-in.md">Batt Vs. Blown-in Insulation</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-remodel.md">Diy Bathroom Remodel Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/budgeting-tips.md">Renovation Budgeting Tips</a></p><br>
