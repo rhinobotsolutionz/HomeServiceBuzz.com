@@ -76,6 +76,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-lighting.md">Outdoor Lighting Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/noisy-garage-door.md">Noisy Garage Door Solutions</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/window-cleaning-2.md">Window Cleaning Secrets</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/replace-vs-repair.md">Appliance Replacement Vs. Repair</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/gfci-outlets.md">Understanding Gfci Outlets</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fix-drafty-windows.md">How To Fix Drafty Windows</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-watering-times.md">Best Times To Water Your Lawn</a></p><br>
