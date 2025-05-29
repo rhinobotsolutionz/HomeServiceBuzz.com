@@ -165,6 +165,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/installing-ceiling-fans.md">Installing Ceiling Fans Safely</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/metal-art-projects.md">Diy Metal Art Projects</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/tree-disease-signs.md">Signs Of Tree Disease</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/repair-running-toilet.md">How To Repair Running Toilets</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/walk-in-showers.md">Walk-in Shower Design Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/crown-molding.md">Crown Molding Installation</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/basement-waterproofing.md">Basement Waterproofing Tips</a></p><br>
