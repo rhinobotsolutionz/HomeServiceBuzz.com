@@ -160,6 +160,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/temperature-settings.md">Water Heater Temperature Settings</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/first-time-homebuyer.md">First-time Homebuyer Guide</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/exterior-color-ideas.md">Best Exterior Paint Colors For Curb Appeal</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/best-time-to-buy-sell.md">Best Time To Buy Or Sell A Home</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/wood-fence-installation.md">Wood Fence Installation Guide</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/electrical-panel-maintenance.md">Electrical Panel Maintenance</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/opener-troubleshooting.md">Garage Door Opener Troubleshooting</a></p><br>
