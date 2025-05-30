@@ -45,6 +45,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/installing-rain-barrels.md">Installing Rain Barrels</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/appliance-cleaning-hacks.md">Appliance Cleaning Hacks</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/basement-renovation.md">Basement Renovation Tips</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/price-your-home.md">How To Price Your Home For Sale</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-installation-2.md">Diy Solar Panel Installation</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/weatherstripping.md">Weatherstripping Your Garage Door</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/minimalist-decluttering.md">Minimalist Decluttering Tips</a></p><br>
