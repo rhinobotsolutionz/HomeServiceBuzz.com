@@ -110,6 +110,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/garage-security.md">Garage Security Improvements</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/winterizing-pool.md">Winterizing Your Pool</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/remote-not-working.md">Garage Door Remote Not Working</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/closing-day-prep.md">What To Expect On Closing Day</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/tankless-maintenance.md">Tankless Water Heater Maintenance</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/outdoor-projects-2.md">Outdoor Diy Home Projects</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/attic-insulation.md">Attic Insulation Tips</a></p><br>
