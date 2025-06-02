@@ -134,6 +134,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fire-pit-fireplace.md">Fire Pit And Fireplace Design Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/benefits-of-solar.md">Benefits Of Installing Solar Panels</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/eco-friendly-cleaning.md">Eco-friendly Cleaning Solutions</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/post-sale-moving.md">Moving After Selling Your Home</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/additives-guide.md">Septic System Additives: Do They Work?</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/repairing-scratched-floors.md">Repairing Scratched Floors</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/signs-replacement-needed.md">Signs Your Siding Needs Replacement</a></p><br>
