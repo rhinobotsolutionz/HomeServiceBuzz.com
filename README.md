@@ -168,6 +168,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/stainless-steel-cleaning.md">Cleaning Stainless Steel</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/expansion-joint-repair.md">Concrete Expansion Joint Repair</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/heat-pump-tips.md">Heat Pump Maintenance Tips</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/remove-tree-safely.md">How To Remove A Tree Safely</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fall-maintenance.md">Gutter Maintenance For Fall</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/pier-beam-repair.md">Pier And Beam Foundation Repair</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/basics-for-beginners.md">Pressure Washing Basics For Beginners</a></p><br>
