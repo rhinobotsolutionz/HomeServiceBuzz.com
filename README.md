@@ -11,6 +11,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/trimming-safety.md">Tree Trimming Safety Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fixing-springs.md">Fixing Garage Door Springs</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/prevent-frozen-pipes.md">Preventing Frozen Pipes</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/home-waterproofing.md">Waterproofing Your Home</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/pruning-tips.md">Tree Pruning Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/your-microwave-not-turning-on.md">Why Your Microwave Not Turning On
 </a></p><br>
