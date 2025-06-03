@@ -165,6 +165,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/home-inspection-checklist.md">Home Inspection Checklist For Buyers</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-moving.md">Diy Moving Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/crawl-space-insulation.md">Crawl Space Insulation Tips</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/diy-remodel-tips.md">Diy Kitchen Remodel Tips</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/stainless-steel-cleaning.md">Cleaning Stainless Steel</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/expansion-joint-repair.md">Concrete Expansion Joint Repair</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/heat-pump-tips.md">Heat Pump Maintenance Tips</a></p><br>
