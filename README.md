@@ -177,6 +177,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fall-maintenance.md">Gutter Maintenance For Fall</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/pier-beam-repair.md">Pier And Beam Foundation Repair</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/basics-for-beginners.md">Pressure Washing Basics For Beginners</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fix-leak.md">How To Fix A Leaking Water Heater</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/deck-railing-design.md">Deck Railing Design Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/grout-tile-cleaning.md">Grout And Tile Cleaning Hacks</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/types-of-insulation.md">Types Of Home Insulation Explained</a></p><br>
