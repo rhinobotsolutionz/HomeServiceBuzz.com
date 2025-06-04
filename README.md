@@ -29,6 +29,7 @@
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/fix-sprinkler-heads.md">How To Fix Broken Sprinkler Heads</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/safety-gear.md">Gutter Cleaning Safety Gear</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/dryer-not-heating.md">Dryer Not Heating Up</a></p><br>
+<p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/hidden-water-damage.md">Signs Of Hidden Water Damage</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/electrical-checklist.md">Electrical System Inspection</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/privacy-fence-designs.md">Privacy Fence Design Ideas</a></p><br>
 <p><a href="https://github.com/rhinobotsolutionz/HomeServiceBuzz.com/blob/main/post/garden-paths.md">Diy Garden Path Ideas</a></p><br>
